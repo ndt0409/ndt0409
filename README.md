@@ -121,12 +121,6 @@ namespace NDT
   </tbody>
 </table>
 
-## <p align="center">Visitor's count :eyes:</p>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{ndt0409}/count.svg" alt="ndt0409 :: Visitor's Count" /></p>
-
-## <p align="center">GitHub Profile Trophy 🏆</p>
-
 <p align='center'>
 <img src="https://github-profile-trophy.vercel.app/?username=ndt0409&theme=tokyonight&row=2&column=4">
 </p>
