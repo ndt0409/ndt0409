@@ -1,10 +1,10 @@
 # <p align="center">𝓝𝓰𝓾𝔂ễ𝓷 𝓓𝓾𝔂 𝓣ú</p>
 
-<p align="center">
+<!-- <p align="center">
 	<a href="https://github.com/ndt0409">
 	<img src="https://avatars.githubusercontent.com/u/60254566" width = "200" alt="NDT">
 	</a>
-</p>
+</p> -->
 
 <h2 align="center">About me</h2>
 
