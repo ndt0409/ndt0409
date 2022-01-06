@@ -20,7 +20,7 @@ namespace NDT
             string Gender = "Male";
             string Address = "Hà Nội, Việt Nam";
             string Skills = "C#, Java, Kotlin, Dart, Python, HTML, JavaScript";
-            string FamousQuotes = "Không phải Writer, không phải Gamer, không phải Facebook-er... Chỉ là Programmer với cái bàn phím.";
+            string FamousQuotes = "Không phải Writer, không phải Gamer,.. Chỉ là Programmer với cái bàn phím.";
         }
     }
 }
