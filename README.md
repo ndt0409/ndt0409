@@ -40,10 +40,6 @@ namespace NDT
   <a href="https://dev.to/ndt0409">
     <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
   </a>
-	
-  <a href="https://www.linkedin.com/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
-  </a>
   
   <a href="mailto:duyduy.codewriter@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
@@ -51,14 +47,6 @@ namespace NDT
 	
   <a href="https://www.instagram.com/ndt0409/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
-  </a>
-  
-  <a href="https://www.tiktok.com/">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
-  </a>
-  
-  <a href="https://www.youtube.com/">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
   </a>
 </p>
 
