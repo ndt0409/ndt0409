@@ -1,5 +1,3 @@
-# Nguyễn-Duy-Tú
-Không phải Writer, không phải Gamer, không phải Facebook-er... Chỉ là Programmer với cái bàn phím.
 # <p align="center">𝓝𝓰𝓾𝔂ễ𝓷 𝓓𝓾𝔂 𝓣ú</p>
 
 <p align="center">
@@ -22,7 +20,7 @@ namespace NDT
             string Gender = "Male";
             string Address = "Hà Nội, Việt Nam";
             string Skills = "C#, Java, Kotlin, Dart, Python, HTML, JavaScript";
-            string FamousQuotes = "Đằng sau 1 lập trình viên thành công là một người bạn gái... không tồn tại";
+            string FamousQuotes = "Không phải Writer, không phải Gamer, không phải Facebook-er... Chỉ là Programmer với cái bàn phím.";
         }
     }
 }
