@@ -21,30 +21,6 @@ namespace NDT
 }
 ```
 
-## <p align="center">You can reach me at 🌹</p>
-
-<p align="center">
-  <a href="https://www.facebook.com/Cun0409/">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
-  </a>
-	
-  <a href="https://github.com/ndt0409">
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
-  </a>
-  
-  <a href="https://dev.to/ndt0409">
-    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
-  </a>
-  
-  <a href="mailto:duyduy.codewriter@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
-  </a>
-	
-  <a href="https://www.instagram.com/ndt0409/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
-  </a>
-</p>
-
 ## <p align="center">What I use :alien:</p>
 
 <table align="center">
