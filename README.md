@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 welcome to my Github .</h1>
-<h1 align="center">I'm Nguyễn Duy Tú </h1>
+<h1 align="center">I'm Nguyen Duy Tu </h1>
 
 <h2 align="center">About me</h2>
 
