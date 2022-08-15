@@ -11,7 +11,6 @@ namespace NDT
         static void Main(string[] args)
         {
             string Name = "Nguyễn Duy Tú";
-            string Age = "1999";
             string Gender = "Male";
             string Address = "Hà Nội, Việt Nam";
             string Skills = "C#, Java, Kotlin, Dart, Python, HTML, JavaScript";
