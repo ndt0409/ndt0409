@@ -1,24 +1,6 @@
 <h1 align="center">Hi there 👋 welcome to my Github .</h1>
-<h1 align="center">I'm Nguyen Duy Tu </h1>
+<h1 align="center">I'm Tu </h1>
 
-<h2 align="center">About me</h2>
-
-```C#
-namespace NDT
-{
-    class duytuNDT
-    {
-        static void Main(string[] args)
-        {
-            string Name = "Nguyễn Duy Tú";
-            string Gender = "Male";
-            string Address = "Hà Nội, Việt Nam";
-            string Skills = "C#, Java, Kotlin, Dart, Python, HTML, JavaScript";
-            string FamousQuotes = "Không phải Writer, không phải Gamer,.. Chỉ là Programmer với cái bàn phím.";
-        }
-    }
-}
-```
 [Music app](https://ndt0409.github.io/MusicApp)
 
 **- This is my profile sumary: [here](https://profile-summary-for-github.com/user/ndt0409)**
